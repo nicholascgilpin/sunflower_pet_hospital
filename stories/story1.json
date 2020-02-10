@@ -1,0 +1,17 @@
+{
+    "title": "The Mysterious Case of Benjamin Beagle",
+    "intro": "Write your story introduction here.",
+    "case": {
+        "correct_dianosis": "Diagnosis Choice c",
+        "life_guesses": 3,
+        "test_budget": 20,
+        "possible_diagnosis": [
+            "Diagnosis Choice a",
+            "Diagnosis Choice b"
+        ],
+        "tests": {
+            "test a": "Test result",
+            "Move Patient": "Patient Sneezes"
+        }
+    }
+}
